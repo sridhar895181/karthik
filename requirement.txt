@@ -1,0 +1,11 @@
+
+                 Requirement analysis
+
+User Authentication & Authorization
+Bus Schedule Management
+Seat Reservation and Booking
+Payment Integration
+Booking History and Notifications
+Admin Reporting & Analytics
+Mobile App Integration
+System Performance and Scalability
